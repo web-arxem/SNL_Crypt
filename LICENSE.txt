@@ -1,0 +1,37 @@
+RUS:
+Это бесплатное и ничем не обремененное программное обеспечение, доступное для общественности.
+
+Программное обеспечение, выпущенное для публичного использования по настоящей лицензии,
+обязуется защищать от несанкционированного доступа к данному Программному обеспечению в силу своих возможностей.
+
+Создатель или правообладатель программного обеспечения обязуется предоставить подробную инструкцию по настройке программного обеспечения если того требует программа.
+
+Любой, кто использует данное программное обеспечение по настоящей лицензии в коммерческих целях, по требованию правообладателя или создателя обязан добавить, откуда взят исходный код данного программного обеспечения и кто является его правообладателем или создателем.
+
+Право собственности на авторские права остается за лицом, которое первым запатентовало его или сделало его общедоступным по любой лицензии.
+
+Создатель или правообладатель данного программного обеспечения не гарантирует работу программного обеспечения после изменения кода, выполняющего работу, третьими лицами (изменения в файле конфигурации программы не входят в условия).
+
+ПО НАСТОЯЩЕЙ ЛИЦЕНЗИИ ЗАПРЕЩЕНО РАСПРОСТРАНЯТЬ ВИРУСНОЕ ПРОГРАМНОЕ ОБЕСПЕЧЕНИЕ ИЛИ КОТОРОЕ МОЖЕТ УХУДШИТЬ РАБОТУ ПЕРСОНАЛЬНОГО КОМПЬЮТЕРА ЛЮБЫМ ВОЗМОЖНЫМ СПОСОБОМ.
+
+Оригинальная лицензия находится по данной ссылке "https://github.com/web-arxem/SNL_LICENSE"
+0JTQsNC90L3QsNGPINC60L7QtNC40YDQvtCy0LrQsCDQv9C+0LTRgtCy0LXRgNC20LTQsNC10YIg0L/QvtC00LvQuNC90L3QvtGB0YLRjCDQu9C40YbQtdC90LfQuNC4LgoKClRoaXMgZW5jb2RpbmcgY29uZmlybXMgdGhlIGF1dGhlbnRpY2l0eSBvZiB0aGUgbGljZW5zZS4=
+
+ENG:
+It is free and unencumbered software available to the public.
+
+Software released for public use under this license
+undertakes to protect against unauthorized access to this Software to the best of its ability.
+
+The creator or copyright holder of the software undertakes to provide detailed instructions for setting up the software if required by the program.
+
+Anyone using this software under this license for commercial purposes must, at the request of the copyright holder or creator, add where the source code for the software came from and who the copyright holder or creator is.
+
+Ownership of a copyright remains with the person who first patented it or made it available to the public under any license.
+
+The creator or copyright holder of this software does not guarantee the operation of the software after changes to the code that performs the work by third parties (changes to the program configuration file are not included in the terms).
+
+IT IS PROHIBITED UNDER THIS LICENSE TO DISTRIBUTE ANY SOFTWARE THAT IS VIRUS OR THAT MAY DEFER THE OPERATION OF A PERSONAL COMPUTER IN ANY WAY POSSIBLE.
+
+The original license is located at this link "https://github.com/web-arxem/SNL_LICENSE"
+0JTQsNC90L3QsNGPINC60L7QtNC40YDQvtCy0LrQsCDQv9C+0LTRgtCy0LXRgNC20LTQsNC10YIg0L/QvtC00LvQuNC90L3QvtGB0YLRjCDQu9C40YbQtdC90LfQuNC4LgoKClRoaXMgZW5jb2RpbmcgY29uZmlybXMgdGhlIGF1dGhlbnRpY2l0eSBvZiB0aGUgbGljZW5zZS4=
