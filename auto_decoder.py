@@ -1,23 +1,8 @@
 from Crypto.Cipher import AES
 import base64
-import ctypes
-import sys
-import os
+import tkinter as tk
+from tkinter import filedialog
 
-def is_admin():
-    try:
-        return ctypes.windll.shell32.IsUserAnAdmin()
-    except:
-        return False
-
-if is_admin():
-    # Ваш код, который требует прав администратора
-    pass
-else:
-    # Перезапуск программы с правами администратора
-    ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
-
-# Ваш основной код программы
 # Функция для расшифрования текста
 def decrypt_text(key, ciphertext):
     data = base64.b64decode(ciphertext.encode())
@@ -36,8 +21,10 @@ def read_from_file(file_path):
         encryption_key = file.readline().strip()
     return encrypted_data, encryption_key
 
-# Путь к файлу
-file_path = 'C:\\encryption.snlcrypt'
+# Создаем диалоговое окно для выбора файла
+root = tk.Tk()
+root.withdraw()
+file_path = filedialog.askopenfilename(defaultextension='.snlcrypt', filetypes=[('SNLCrypt files', '*.snlcrypt')])
 
 # Чтение зашифрованного текста и ключа из файла
 encrypted_text, key_b64 = read_from_file(file_path)
@@ -45,9 +32,17 @@ encrypted_text, key_b64 = read_from_file(file_path)
 # Декодирование ключа из формата base64
 key = base64.b64decode(key_b64)
 
-# Расшифровываем текст и выводим результат
+# Расшифровываем текст
 decrypted_text = decrypt_text(key, encrypted_text)
 print("Расшифрованный текст:", decrypted_text)
 
-# Добавляем ожидание нажатия клавиши Enter перед завершением программы
-input("Нажмите Enter для завершения программы...")
+# Диалоговое окно для выбора пути сохранения файла .snldecrypt
+save_path = filedialog.asksaveasfilename(defaultextension=".snldecrypt", filetypes=[("SNL Decrypt Files", "*.snldecrypt")])
+
+# Сохраняем расшифрованный текст и ключ в файл .snldecrypt
+with open(save_path, 'w', encoding='utf-8') as file:
+    file.write(f'Расшифрованный текст: {decrypted_text}')
+
+print("Файл успешно сохранен.")
+
+input("Нажмите Enter для завершения ...")
