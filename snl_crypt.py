@@ -170,6 +170,8 @@ def main(image_path):
         else:
             os.system("clear")
         subprocess.run(['check_ver.exe'], shell=True)  # Запуск выбранного файла
+    elif choice == "Crypt":
+        #subprocess.run(['FILE_CRYPT\\fiIe_c.exe'], shell=True)
 if __name__ == "__main__":
     image_path = 'IMG\\SNL_CRYPT.png'  # Выбор изображения
     main(image_path)
