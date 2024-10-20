@@ -171,7 +171,8 @@ def main(image_path):
             os.system("clear")
         subprocess.run(['check_ver.exe'], shell=True)  # Запуск выбранного файла
     elif choice == "Crypt":
-        #subprocess.run(['FILE_CRYPT\\fiIe_c.exe'], shell=True)
+        print("Немного не угадал😁, но ты очень близко")
+        # Как я и сказал в описании к новому релизу кода пасхалки здесь нет, но подсказка есть
 if __name__ == "__main__":
     image_path = 'IMG\\SNL_CRYPT.png'  # Выбор изображения
     main(image_path)
