@@ -48,13 +48,14 @@ def center_text(text):
     return centered_text
 
 def main(image_path):
-
+    os.system("cls")
     print("Выберите, что запустить:")
-    print("1. шифровщик")
-    print("2. дешифровщик")
-    print("3. авто дешифровщик")
-    print("4. шифровщик-дешифровщик файлов")
-    print("5. шифровщик-дешифровщик дисков")
+    print("1. Шифровщик")
+    print("2. Дешифровщик")
+    print("3. Авто дешифровщик")
+    print("4. Шифровщик-дешифровщик файлов")
+    print("5. Шифровщик-дешифровщик дисков")
+    print("9. Проверить обновления программы")
     #print("")
     #print("0. выход")
 
@@ -150,11 +151,25 @@ def main(image_path):
         else:
             os.system("clear")
         subprocess.run(['DISK_CRYPT\\SNL_DISK_CRYPT.exe'], shell=True)  # Запуск выбранного файла
-    """elif choice == "0":
-       os.system("exit")"""
-    """else:
-        print("Ошибка. Пожалуйста, введите 1, 2, 3 или 4 для выбора.")"""
+    
+    elif choice == "9":
+        if platform.system() == "Windows": # Определение системы и ввод команды очистки
+            os.system("cls")
+        else:
+            os.system("clear")
+        # Вывод ASCII-арта сразу после выбора действия
+        ascii_art = image_to_ascii(image_path)
+        centered_art = center_text(ascii_art)
+        print(centered_art)
 
+        print(f"\nЗапуск проверки обновлений")
+        time.sleep(4)  # Задержка перед запуском
+
+        if platform.system() == "Windows": # Определение системы и ввод команды очистки
+            os.system("cls")
+        else:
+            os.system("clear")
+        subprocess.run(['check_ver.exe'], shell=True)  # Запуск выбранного файла
 if __name__ == "__main__":
     image_path = 'IMG\\SNL_CRYPT.png'  # Выбор изображения
     main(image_path)
