@@ -35,7 +35,7 @@
 </ul>
 <br>
 <h1>P.S</h1>
-<h3>Вот вам посхалочка</h3>
+<h3>Вот вам пасхалочка</h3>
 <p>Текст:<br>U1VPtGR0ukwNOYoYjsLZq7Tn0ghjgk4sAGMce/oNtAgdg9jkAzELGQOzZkSGhESxapLkyfEr4iwDct1SWWip9XZ7aL1SmCxT/9MqBzeCavIGRGYM3Tdv8tJlwbI7OmaOpG1CDwPAHDzcoFud1u2DcbC/px88gbe2QUfAwwwxs05e2u/7AzCns3Zqf6MM7Greqsemfvhx6VaUxWgO3PQGSISwFIQ9V2y6olbhpSn+sudy8exnY3NMWY3DFqaM9JofY2JmnXp/+SZlYnFaITqGVuS0MbwJlp5/MTEJkNdDZBj2</p>
 <p>Ключ:<br>hBfFoleVJIVZ5IERkp4Ff7S0xwLjAqCuWrHxhiPfIjk=</p>
 <h3>P.P.S</h3>
