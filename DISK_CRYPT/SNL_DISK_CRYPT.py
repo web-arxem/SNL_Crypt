@@ -12,7 +12,7 @@ def run_disk_operation(operation):
     operation_name = "шифрования" if operation == 'encrypt' else "дешифрования"
 
     # Запуск соответствующей программы
-    exe_file = 'DISK_CRYPT\\D_CRYPT.exe' if operation == 'encrypt' else 'DISK_CRYPT\\D_DECRYPT.exe'
+    exe_file = 'DISK_CRYPT\\D_CRYPT.py' if operation == 'encrypt' else 'DISK_CRYPT\\D_DECRYPT.py'
     subprocess.run([exe_file], shell=True)
 
 def create_interface():
