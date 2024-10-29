@@ -36,7 +36,8 @@
 <br>
 <h1>P.S</h1>
 <h3>Вот вам пасхалочка</h3>
-<p>Текст:<br>U1VPtGR0ukwNOYoYjsLZq7Tn0ghjgk4sAGMce/oNtAgdg9jkAzELGQOzZkSGhESxapLkyfEr4iwDct1SWWip9XZ7aL1SmCxT/9MqBzeCavIGRGYM3Tdv8tJlwbI7OmaOpG1CDwPAHDzcoFud1u2DcbC/px88gbe2QUfAwwwxs05e2u/7AzCns3Zqf6MM7Greqsemfvhx6VaUxWgO3PQGSISwFIQ9V2y6olbhpSn+sudy8exnY3NMWY3DFqaM9JofY2JmnXp/+SZlYnFaITqGVuS0MbwJlp5/MTEJkNdDZBj2</p>
-<p>Ключ:<br>hBfFoleVJIVZ5IERkp4Ff7S0xwLjAqCuWrHxhiPfIjk=</p>
+<p>Текст:<br>UoSBf7hzRIq7smWfjKjOzp4kCKYbgL7pPKvWGbyQkraxP8AsdmoUFbsKfEHFe19fvLJxxRUlLhX3rdPKrdOo6lHailPLmgA25zKFKkb7SJSEkgwLKadBovv0ZZdksXB+iqrvM12td2eogUKyhTF41vDvzwbwHdE2UJyOCJyW4f7QW0j+zEtJWwqOqtYj0gXObuKMzAwpfmCUh7C2eOusSr9dNFGHc9mLppuUqunFz5w6VTzTY8b1zpAzUpwQztbJ+ayu6DdjkDuGkD4kInVCDPHSsXr1plrOzVfsvyI5jih3geaI9fxQja2pL2aqoCIT0xufgVrDUJYxj5P5fm+hVxEj3mvO55Ub+H2rqGJ5g2l/+TfiD4IhvzDlKvVGouLggZ7NmzsGjLynOqN7wG+CVCS7aakNYO5eVPlv6S/EMq2GmNYv4AhgG+t+GknJG1qxrUsIU7AVCqIF5RjxpTM/HyK60BwLqNkUG03qbEFhgx+g26ILt8xj1qiAKG28uTO75UsJlytDwaJAMYIXvG+bOzyYXhnweKzU0Keae1Ay76lJmjoGgXHRZ5SH+821H59kQFwNP+EOELgLZd94KJ04rE5c/yBDGsJajDKySBl7ZR2/I2NyYGPwoSFRKRJWMZ3JeE1kxvgNbpVrsE69GAukr8VTaA9cdJIhWxFsfQF65TRhJT/tZIcIJ5b1jph8ynl2</p>
+<p>Ключ1 скрывается где-то в проекте</p>
+<p>Ключ2:<br>lYudZSYXJ5CcFsOZb3xzGIJ5oCKQz+409qXTZ+dRXrI=</p>
 <h3>P.P.S</h3>
-<p>Для расшифровки требуется моя программа</p>
+<p>Для расшифровки требуется моя программа версии 6</p>
